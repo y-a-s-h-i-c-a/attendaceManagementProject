@@ -2,7 +2,7 @@
 
 " Attendance Management System Project"
 
-#Download the zip folder and save it in your system.
+##Download the zip folder and save it in your system.
 
 FIRST Download
 
@@ -30,4 +30,7 @@ Username: admin
 Password: admin
 
 
-Screenshots:-
+##Screenshots:-
+
+![Screenshot (1)](https://user-images.githubusercontent.com/65288859/127633715-0da3e1ec-779d-4b97-b7f2-e51b30de04a6.png)
+
