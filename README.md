@@ -2,6 +2,8 @@
 
 " Attendance Management System Project"
 
+#Download the zip folder and save it in your system.
+
 FIRST Download
 
 1.XAMPP
