@@ -34,3 +34,14 @@ Password: admin
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/65288859/127633715-0da3e1ec-779d-4b97-b7f2-e51b30de04a6.png)
 
+![Screenshot (2)](https://user-images.githubusercontent.com/65288859/127633918-d170dca8-8ed2-44a8-9789-8b13b9eed1a4.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/65288859/127633982-a6eb4cf7-2b0f-421e-8fda-4a1889b17d4a.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/65288859/127634473-1b9e7ebf-3196-4338-b852-adb3b122c553.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/65288859/127634520-21f9036a-e68f-4e18-8613-28d0762d40b0.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/65288859/127634583-bd267f82-70eb-4cb2-8a3b-d44b9e26e243.png)
+
+
